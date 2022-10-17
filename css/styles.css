@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-/*Color for logo: #FCE44D */
+/*Color for logo : #FCE44D */
 
 :root {
   --text-color: lightgoldenrodyellow;
@@ -13,8 +13,8 @@
 body{
 	background-color: var(--background-color);
 	color:var(--text-color);
-	font-family: 'Trirong', sans-serif; 
-	font-weight: 400; 
+	font-family: 'Trirong', sans-serif;
+	font-weight: 400;
 	font-size: 16px;
 	line-height: 1.6;}
 
@@ -165,7 +165,7 @@ button:hover, button:focus, .button:hover, .button:focus {
 .grid__item {
 	display:  inline-block;
 	width:  33%;
-	background-color: var(--secondary-color); 
+	background-color: var(--secondary-color);
 	padding:  20 px 30 px 35 px;
 	width:  auto;
 	min-height: auto;
@@ -217,7 +217,7 @@ button:hover, button:focus, .button:hover, .button:focus {
   to {
     transform: translate(200px, 50px);
   }
- 
+
 }
 
 
@@ -236,10 +236,10 @@ button:hover, button:focus, .button:hover, .button:focus {
 }
 
 .cloud-back {
-	
+
   animation: 34s cloud-move-reverse infinite alternate linear;
 }
-    
+
 
 /* Contact Page */
 .flex-container {
